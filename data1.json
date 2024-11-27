@@ -1,0 +1,13 @@
+{
+    "name": "mohamed yuusuf",
+    "age": "30",
+    "city": "hargeisa somlialnd",
+    "interest": [
+        "Travelling",
+        "Soccer",
+        "Playstation",
+        "Astronomy",
+        "Driving"
+    ],
+    "is_student": true
+}
